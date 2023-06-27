@@ -1,0 +1,3 @@
+[submodule "ofeliaGui"]
+	path = ofeliaGui
+	url = git@github.com:Reinissance/ofeliaGui.git
